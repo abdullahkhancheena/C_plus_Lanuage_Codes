@@ -6,7 +6,8 @@ Transaction ID
 Amount
 Transaction Type (Deposit / Withdraw)
 
-BankAccount
+Bank
+Account
 Account Holder Name
 Account Number
 Current Balance

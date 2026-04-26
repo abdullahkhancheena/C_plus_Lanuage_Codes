@@ -16,6 +16,7 @@ point::point(int a, int b)
 	x = a;
 	y = b;
 }
+
 void point::display(void)
 {
 	cout << "Point = [" << x << "," << y << "]" << endl;

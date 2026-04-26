@@ -14,6 +14,7 @@ int main()
 	cin>>n; 
 	Employee *employees = new Employee[n];
 	
+	
 	cout<<"-------------Enter Employee Details---------------"<<endl;
 	for(int i = 0; i < n; i++)	
 	{
